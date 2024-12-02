@@ -10,8 +10,9 @@
     "serve": "deno task lume -s",
     "cms": "deno task lume cms --location http://location:3001",
     "preview": "npx serve _site",
-    "dev": "concurrently 'deno task cms' 'deno task preview'",
-    "update-deps": "deno run -A --quiet 'https://deno.land/x/nudd@v0.2.4/cli.ts' update plugins.ts deno.json"
+    "dev": "deno run -A 'npm:concurrently@9.1.0' 'deno task cms' 'deno task preview'",
+    "update-deps": "deno run -A --quiet 'https://deno.land/x/nudd@v0.2.4/cli.ts' update plugins.ts deno.json",
+    "publish": "deno task build && git add . && git commit -m 'update & publish' && git push"
   },
   "compilerOptions": {
     "types": [
