@@ -12,6 +12,8 @@ ini merupakan project pertama dari video
 
 disini saya mempelajari tentang bagaimana solana menyimpan dan mengambil data menggunakan signing untuk mengontrol akses.
 
+<!--more-->
+
 data pada solana disimpan di Program Derived Addresses 
 (PDAs)
 
