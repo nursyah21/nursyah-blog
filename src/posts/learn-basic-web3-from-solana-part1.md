@@ -9,6 +9,8 @@ comments: {}
 ---
 jadi pada post sebelumnya, saya belajar di video youtube [https://youtu.be/amAq-WHAFs8](https://youtu.be/amAq-WHAFs8)  namun setelah menonton video tersebut saya stuck di part 2. saya merasa kemampuan saya masih kurang untuk lanjut kepart berikutnya dan metode belajar saya sepertinya juga salah, saya seperti copy paste kode yang ditulis tanpa mengerti kenapa harus menuliskan kode tersebut.
 
+<!--more-->
+
 jadi saya memulai pendekatan baru, dengan membaca panduan di [https://solana.com/developers](https://solana.com/developers) 
 
 baca mulai dari sini
@@ -93,4 +95,4 @@ silahkan dijalankan dan cek nilai balance anda akan bertambah.
 
 > disini meskipun saya menggunakan deno, saya membuat kode ini agar tetap bisa dijalankan di nodejs dikarenakan tidak menggunakan kode' khusus untuk deno dan menggunakan kompabiliti seperti node:process agar bisa berjalan pada nodejs dan deno
 
-> sepertinya saya juga tidak perlu menjelaskan kode nya lagi dikarenakan nama variable yang mencerminkan fungsinya dan catatan anda juga sudah memiliki basic tentang typescript 
+> sepertinya saya juga tidak perlu menjelaskan kode nya lagi dikarenakan nama variable yang mencerminkan fungsinya dan catatan anda juga sudah memiliki basic tentang typescript
