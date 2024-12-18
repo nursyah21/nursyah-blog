@@ -1,3 +1,3 @@
-// import Comments from "./comments.js";
+import Comments from "./comments.js";
 
-// customElements.define("mastodon-comments", Comments);
+customElements.define("mastodon-comments", Comments);
