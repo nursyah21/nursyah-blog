@@ -9,8 +9,8 @@ extra_head: []
 # Metas plugin https://lume.land/plugins/metas/#description
 metas:
   site: Nursyah
-  description: General description of the blog
+  description: My Journal Programming especially for web3
   title: "=title"
   image: "=image"
-  twitter: "@username"
+  twitter: "@nursyah_21"
   lang: en
