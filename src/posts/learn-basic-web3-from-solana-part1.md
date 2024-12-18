@@ -7,7 +7,7 @@ tags:
   - web3
 comments: {}
 ---
-jadi pada post sebelumnya, saya belajar di video youtube [https://youtu.be/amAq-WHAFs8](https://youtu.be/amAq-WHAFs8)  namun setelah menonton video tersebut saya stuck di part 2. saya merasa kemampuan saya masih kurang untuk lanjut kepart berikutnya dan metode belajar saya sepertinya juga salah, saya seperti copy paste kode yang ditulis tanpa mengerti kenapa harus menuliskan kode tersebut.
+jadi pada post sebelumnya, saya belajar di video youtube [https://youtu.be/amAq-WHAFs8](https://youtu.be/amAq-WHAFs8)  namun setelah menonton video tersebut saya stuck di part 2. saya merasa kemampuan saya masih kurang untuk lanjut ke part berikutnya dan metode belajar saya sepertinya juga salah, saya seperti copy paste kode yang ditulis tanpa mengerti kenapa harus menuliskan kode tersebut.
 
 <!--more-->
 
