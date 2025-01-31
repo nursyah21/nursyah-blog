@@ -6,11 +6,10 @@ menu:
   visible: true
   order: 2
 ---
-hi, kenalin nama saya nursyah. saya hobi mendengarkan lagu jepang dan membaca manga. 
+Hi, nama saya Nursyah. Saya suka mendengarkan lagu-lagu Jepang dan terkadang pergi ke event Jepang. Saya menemukan inspirasi dan kegembiraan baik ketika pergi ke event-event jepang maupun melalui musik.
 
-saya telah cukup banyak membuat beberapa program ntah program tersebut bermanfaat atau tidak bisa anda lihat di github saya.
+Sebagai seorang developer, saya cukup banyak membuat program yang dapat Anda lihat di GitHub. Meskipun hanya beberapa yang benar-benar selesai, dikarenakan saya lebih ke bereksperimen dengan teknologi baru.
 
-saat ini saya sedang fokus untuk mengeksplor deno dan solana untuk kebutuhan membuat aplikasi web3.
-karena kebetulan solana dibuat menggunakan rust dan deno dibuat menggunakan rust, sepertinya kombinasi deno dan solana cukup menarik.
+Saat ini, saya fokus belajar menggunakan Flutter dan Firebase. Hal ini dikarenakan saya ingin menghasilkan aplikasi yang bisa langsung diuji coba dan memungkinkan rapid development sehingga bisa lebih fokus kepada masalah yang ingin diselesaikan. 
 
-sekian tentang saya, terimakasih
+Salam hangat, Nursyah
